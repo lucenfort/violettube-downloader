@@ -1,0 +1,3 @@
+flet==0.22.1
+moviepy==1.0.3
+pytube==15.0.0
