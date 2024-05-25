@@ -81,4 +81,5 @@ Para iniciar a aplicação, execute o seguinte comando no terminal:
 
 ---
 
-Desfrute de seus vídeos e áudios com o VioletTube Downloader!
+![image](https://github.com/lucenfort/violettube-downloader/assets/55037889/4cce489c-63fe-4eb5-8299-ae57f3f65d9d)
+
