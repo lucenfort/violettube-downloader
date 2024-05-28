@@ -1,6 +1,6 @@
 # VioletTube Downloader
 
-VioletTube Downloader é uma aplicação moderna e intuitiva para baixar vídeos e áudios do YouTube. Desenvolvido com Flet, Pytube e MoviePy, este aplicativo facilita o download de conteúdo em várias resoluções e formatos.
+VioletTube Downloader é uma aplicação simples para baixar vídeos e áudios do YouTube. Desenvolvido com Flet, Pytube e MoviePy, este aplicativo facilita o download de conteúdo em várias resoluções e formatos.
 
 ## Objetivo
 
